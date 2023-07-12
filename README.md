@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplov-stha&label=Profile%20views&color=0e75b6&style=flat" alt="biplov-stha" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👨‍💻 My Portfolio/Blog Website: [https://bstha.netlify.app](https://bstha.netlify.app)
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 Reach me at: **biplovestha290@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+[![portfolio](https://img.shields.io/badge/my_portfolio_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bstha.netlify.app/)
+[![telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stha_biplov)
+[![mastodon](https://img.shields.io/badge/mastodon-1DA1F2?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@bstha)
+</h3>
 <p align="left">
 </p>
 
