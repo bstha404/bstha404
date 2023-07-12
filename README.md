@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplov-stha&label=Profile%20views&color=0e75b6&style=flat" alt="biplov-stha" /> </p>
 
-- 👨‍💻 My Portfolio/Blog Website: [https://bstha.netlify.app](https://bstha.netlify.app)
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 Reach me at: **biplovestha290@gmail.com**
