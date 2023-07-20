@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biplov Shrestha</h1>
+<h1 align="center">Hi 👋, I'm Biplov</h1>
 <h3 align="center">A Student, Web developer and Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplov-stha&label=Profile%20views&color=0e75b6&style=flat" alt="biplov-stha" /> </p>
