@@ -2,9 +2,9 @@
 <h3 align="center">A Student, Web developer and Tech enthusiast</h3>
 
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="1500" height="350"/>
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bstha404&label=Profile%20views&color=0e75b6&style=flat" alt="bstha404"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bstha404&label=Profile%20views&color=0e75b6&style=flat" alt="bstha404" width="50"/> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
